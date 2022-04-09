@@ -1,0 +1,27 @@
+body {
+    background-color: #0E1111;
+}
+
+.track {
+    background-color: 	#32CD32;
+}
+
+.user-playlists {
+   height: 100%;
+   color: #32CD32;
+   padding: 10px;
+}
+
+.wrapper {
+    display: flex;
+    /* justify-content: center; */
+    /* align-items: center; */
+    height: 100vh;
+}
+
+.result-container {
+    /* flex: 1; */
+    border: 2px solid white;
+}
+
+
